@@ -1,0 +1,11 @@
+,no_of_comments,sentiment,sentiment_score,ticker,Date
+0,542,Bearish,-0.392,BBBY,2022-09-01
+0,382,Bullish,0.13,GME,2022-06-01
+1,202,Bullish,0.13,GME,2022-09-01
+2,101,Bearish,-0.109,NVDA,2022-09-01
+0,97,Bullish,0.257,TSLA,2022-08-01
+1,76,Bullish,0.19,AMD,2022-08-01
+0,75,Bullish,0.13,GME,2022-10-01
+2,74,Bullish,0.13,GME,2022-08-01
+0,63,Bullish,0.257,TSLA,2022-07-01
+3,61,Bullish,0.244,RC,2022-09-01
